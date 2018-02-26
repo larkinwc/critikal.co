@@ -1,13 +1,33 @@
 body {
   font-family: "Roboto", sans-serif;
+  color: whitesmoke;
   background: darken(white, 0.2);
+  margin: 0;
+  padding: 0;
 }
 ul {
   list-style-type: none;
+}
+li {
+  margin-left:30px;
+  display: inline;
+}
+nav {
+  padding-top:15px;
+}
+h2 {
+  margin-left:15%;
 }
 footer {
   text-align: center;
 }
 .spacer {
   margin-top: 5%;
+}
+.cover {
+  background-image: url(img/background.jpg);
+  background-size: cover;
+}
+#land h1{
+  text-align: center;
 }

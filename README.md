@@ -1,4 +1,4 @@
-# lcode.me
+# Critikal.co
 
 Critikal business site, built with Node utilizing Webpack + Babel + eslint
 
